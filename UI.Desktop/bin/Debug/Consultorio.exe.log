@@ -1,0 +1,26 @@
+[11/12/2012 12:23:26 p.m.] [Error General] La conversión especificada no es válida.
+[11/12/2012 12:23:46 p.m.] [Error General] La conversión especificada no es válida.
+[11/12/2012 12:24:20 p.m.] [Error General] Could not find specified column in results: _id_obrasocial
+[11/12/2012 04:33:45 p.m.] [Error General] Parameter '_id_paciente' not found in the collection.
+[11/12/2012 04:33:50 p.m.] [Error General] Parameter '_id_paciente' not found in the collection.
+[11/12/2012 04:33:55 p.m.] [Error General] Parameter '_id_paciente' not found in the collection.
+[11/12/2012 04:36:07 p.m.] [Error General] La conversión especificada no es válida.
+[11/12/2012 04:37:21 p.m.] [Error General] La conversión especificada no es válida.
+[11/12/2012 04:38:11 p.m.] [Error General] La conversión especificada no es válida.
+[11/12/2012 04:39:14 p.m.] [Error General] La conversión especificada no es válida.
+[11/12/2012 04:43:31 p.m.] [Error General] Parameter '_id_paciente' not found in the collection.
+[11/12/2012 04:46:40 p.m.] [Error General] Parameter '_id_paciente' not found in the collection.
+[11/12/2012 04:46:58 p.m.] [Error General] Parameter '_id_paciente' not found in the collection.
+[11/12/2012 04:47:12 p.m.] [Error General] Parameter '_id_paciente' not found in the collection.
+[11/12/2012 04:55:27 p.m.] [Error de MySQL] Procedure or function '`consulta_select`' cannot be found in database '`consultorio`'.
+[11/12/2012 04:55:32 p.m.] [Error de MySQL] Procedure or function '`consulta_select`' cannot be found in database '`consultorio`'.
+[11/12/2012 05:00:16 p.m.] [Error de MySQL] Procedure or function '`consulta_select`' cannot be found in database '`consultorio`'.
+[11/12/2012 05:00:21 p.m.] [Error de MySQL] Procedure or function '`consulta_select`' cannot be found in database '`consultorio`'.
+[11/12/2012 05:02:14 p.m.] [Error de MySQL] Procedure or function '`consulta_select`' cannot be found in database '`consultorio`'.
+[11/12/2012 05:02:16 p.m.] [Error de MySQL] Procedure or function '`consulta_select`' cannot be found in database '`consultorio`'.
+[11/12/2012 05:56:07 p.m.] [Error General] Parameter '_id_paciente' not found in the collection.
+[11/12/2012 05:56:09 p.m.] [Error General] Parameter '_id_paciente' not found in the collection.
+[11/12/2012 05:56:13 p.m.] [Error General] Parameter '_id_paciente' not found in the collection.
+[11/12/2012 05:56:17 p.m.] [Error General] Parameter '_id_paciente' not found in the collection.
+[11/12/2012 05:57:16 p.m.] [Error General] Parameter '_id_paciente' not found in the collection.
+[11/12/2012 05:57:19 p.m.] [Error General] Parameter '_id_paciente' not found in the collection.

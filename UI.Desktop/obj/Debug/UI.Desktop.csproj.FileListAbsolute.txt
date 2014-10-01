@@ -1,0 +1,41 @@
+F:\Consultorio\UI.Desktop\bin\Debug\Consultorio.exe.config
+F:\Consultorio\UI.Desktop\obj\Debug\ResolveAssemblyReference.cache
+F:\Consultorio\UI.Desktop\obj\Debug\UI.Desktop.frmMain.resources
+F:\Consultorio\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+F:\Consultorio\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.Cache
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\UI.Desktop\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\UI.Desktop\obj\Debug\UI.Desktop.frmInformes.resources
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\UI.Desktop\obj\Debug\UI.Desktop.frmIngreso.resources
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\UI.Desktop\obj\Debug\UI.Desktop.frmMain.resources
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.Cache
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\UI.Desktop\bin\Debug\Consultorio.exe.config
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\UI.Desktop\bin\Debug\Consultorio.exe
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\UI.Desktop\bin\Debug\Consultorio.pdb
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\UI.Desktop\bin\Debug\Business.Logic.dll
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\UI.Desktop\bin\Debug\Bussiness.Entities.dll
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\UI.Desktop\bin\Debug\Util.dll
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\UI.Desktop\bin\Debug\Data.Database.dll
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\UI.Desktop\bin\Debug\Business.Logic.pdb
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\UI.Desktop\bin\Debug\Bussiness.Entities.pdb
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\UI.Desktop\bin\Debug\Util.pdb
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\UI.Desktop\bin\Debug\Data.Database.pdb
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\UI.Desktop\obj\Debug\Consultorio.exe
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\UI.Desktop\obj\Debug\Consultorio.pdb
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\UI.Desktop\obj\Debug\UI.Desktop.frmObrasSociales.resources
+C:\Temp\Consultorio\UI.Desktop\bin\Debug\Consultorio.exe.config
+C:\Temp\Consultorio\UI.Desktop\obj\Debug\UI.Desktop.csprojResolveAssemblyReference.cache
+C:\Temp\Consultorio\UI.Desktop\obj\Debug\UI.Desktop.frmInformes.resources
+C:\Temp\Consultorio\UI.Desktop\obj\Debug\UI.Desktop.frmIngreso.resources
+C:\Temp\Consultorio\UI.Desktop\obj\Debug\UI.Desktop.frmMain.resources
+C:\Temp\Consultorio\UI.Desktop\obj\Debug\UI.Desktop.frmObrasSociales.resources
+C:\Temp\Consultorio\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+C:\Temp\Consultorio\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.Cache
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\Consultorio\UI.Desktop\bin\Debug\Consultorio.exe.config
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\Consultorio\UI.Desktop\obj\Debug\UI.Desktop.csprojResolveAssemblyReference.cache
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\Consultorio\UI.Desktop\obj\Debug\UI.Desktop.frmInformes.resources
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\Consultorio\UI.Desktop\obj\Debug\UI.Desktop.frmIngreso.resources
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\Consultorio\UI.Desktop\obj\Debug\UI.Desktop.frmMain.resources
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\Consultorio\UI.Desktop\obj\Debug\UI.Desktop.frmObrasSociales.resources
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\Consultorio\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\Consultorio\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.Cache

@@ -1,0 +1,34 @@
+F:\Consultorio\Business.Logic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Business.Logic\bin\Debug\Business.Logic.dll
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Business.Logic\bin\Debug\Business.Logic.pdb
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Business.Logic\bin\Debug\Bussiness.Entities.dll
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Business.Logic\bin\Debug\Data.Database.dll
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Business.Logic\bin\Debug\Util.dll
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Business.Logic\bin\Debug\Data.Database.pdb
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Business.Logic\bin\Debug\Util.pdb
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Business.Logic\bin\Debug\Bussiness.Entities.pdb
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Business.Logic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Business.Logic\obj\Debug\Business.Logic.dll
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Business.Logic\obj\Debug\Business.Logic.pdb
+C:\Temp\Consultorio\Business.Logic\bin\Debug\Business.Logic.dll
+C:\Temp\Consultorio\Business.Logic\bin\Debug\Business.Logic.pdb
+C:\Temp\Consultorio\Business.Logic\bin\Debug\Bussiness.Entities.dll
+C:\Temp\Consultorio\Business.Logic\bin\Debug\Data.Database.dll
+C:\Temp\Consultorio\Business.Logic\bin\Debug\Util.dll
+C:\Temp\Consultorio\Business.Logic\bin\Debug\Bussiness.Entities.pdb
+C:\Temp\Consultorio\Business.Logic\bin\Debug\Data.Database.pdb
+C:\Temp\Consultorio\Business.Logic\bin\Debug\Util.pdb
+C:\Temp\Consultorio\Business.Logic\obj\Debug\Business.Logic.csprojResolveAssemblyReference.cache
+C:\Temp\Consultorio\Business.Logic\obj\Debug\Business.Logic.dll
+C:\Temp\Consultorio\Business.Logic\obj\Debug\Business.Logic.pdb
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\Consultorio\Business.Logic\bin\Debug\Business.Logic.dll
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\Consultorio\Business.Logic\bin\Debug\Business.Logic.pdb
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\Consultorio\Business.Logic\bin\Debug\Bussiness.Entities.dll
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\Consultorio\Business.Logic\bin\Debug\Data.Database.dll
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\Consultorio\Business.Logic\bin\Debug\Util.dll
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\Consultorio\Business.Logic\bin\Debug\Bussiness.Entities.pdb
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\Consultorio\Business.Logic\bin\Debug\Data.Database.pdb
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\Consultorio\Business.Logic\bin\Debug\Util.pdb
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\Consultorio\Business.Logic\obj\Debug\Business.Logic.csprojResolveAssemblyReference.cache
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\Consultorio\Business.Logic\obj\Debug\Business.Logic.dll
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\Consultorio\Business.Logic\obj\Debug\Business.Logic.pdb

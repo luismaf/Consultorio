@@ -1,0 +1,15 @@
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Util\bin\Debug\Util.dll
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Util\bin\Debug\Util.pdb
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Util\obj\Debug\Util.dll
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Util\obj\Debug\Util.pdb
+C:\Temp\Consultorio\Util\bin\Debug\Util.dll
+C:\Temp\Consultorio\Util\bin\Debug\Util.pdb
+C:\Temp\Consultorio\Util\obj\Debug\Utilidades.csprojResolveAssemblyReference.cache
+C:\Temp\Consultorio\Util\obj\Debug\Util.dll
+C:\Temp\Consultorio\Util\obj\Debug\Util.pdb
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\Consultorio\Util\bin\Debug\Util.dll
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\Consultorio\Util\bin\Debug\Util.pdb
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\Consultorio\Util\obj\Debug\Utilidades.csprojResolveAssemblyReference.cache
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\Consultorio\Util\obj\Debug\Util.dll
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\Consultorio\Util\obj\Debug\Util.pdb

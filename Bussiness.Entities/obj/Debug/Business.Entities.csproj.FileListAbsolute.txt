@@ -1,0 +1,15 @@
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Bussiness.Entities\bin\Debug\Bussiness.Entities.dll
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Bussiness.Entities\bin\Debug\Bussiness.Entities.pdb
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Bussiness.Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Bussiness.Entities\obj\Debug\Bussiness.Entities.dll
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Bussiness.Entities\obj\Debug\Bussiness.Entities.pdb
+C:\Temp\Consultorio\Bussiness.Entities\bin\Debug\Bussiness.Entities.dll
+C:\Temp\Consultorio\Bussiness.Entities\bin\Debug\Bussiness.Entities.pdb
+C:\Temp\Consultorio\Bussiness.Entities\obj\Debug\Business.Entities.csprojResolveAssemblyReference.cache
+C:\Temp\Consultorio\Bussiness.Entities\obj\Debug\Bussiness.Entities.dll
+C:\Temp\Consultorio\Bussiness.Entities\obj\Debug\Bussiness.Entities.pdb
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\Consultorio\Bussiness.Entities\bin\Debug\Bussiness.Entities.dll
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\Consultorio\Bussiness.Entities\bin\Debug\Bussiness.Entities.pdb
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\Consultorio\Bussiness.Entities\obj\Debug\Business.Entities.csprojResolveAssemblyReference.cache
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\Consultorio\Bussiness.Entities\obj\Debug\Bussiness.Entities.dll
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\Consultorio\Bussiness.Entities\obj\Debug\Bussiness.Entities.pdb

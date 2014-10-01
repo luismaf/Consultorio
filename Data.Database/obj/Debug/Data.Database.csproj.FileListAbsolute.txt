@@ -1,0 +1,16 @@
+F:\Consultorio\Data.Database\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Data.Database\bin\Debug\Data.Database.dll
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Data.Database\bin\Debug\Data.Database.pdb
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Data.Database\bin\Debug\Bussiness.Entities.dll
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Data.Database\bin\Debug\Util.dll
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Data.Database\bin\Debug\Util.pdb
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Data.Database\bin\Debug\Bussiness.Entities.pdb
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Data.Database\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Data.Database\obj\Debug\Data.Database.dll
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Data.Database\obj\Debug\Data.Database.pdb
+C:\Temp\Consultorio\Data.Database\obj\Debug\Data.Database.csprojResolveAssemblyReference.cache
+C:\Temp\Consultorio\Data.Database\obj\Debug\Data.Database.dll
+C:\Temp\Consultorio\Data.Database\obj\Debug\Data.Database.pdb
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\Consultorio\Data.Database\obj\Debug\Data.Database.csprojResolveAssemblyReference.cache
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\Consultorio\Data.Database\obj\Debug\Data.Database.dll
+C:\Users\luismaf\Documents\Visual Studio 2012\Projects\Consultorio\Data.Database\obj\Debug\Data.Database.pdb

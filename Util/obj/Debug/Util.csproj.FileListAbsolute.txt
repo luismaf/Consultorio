@@ -1,0 +1,5 @@
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Util\bin\Debug\Util.dll
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Util\bin\Debug\Util.pdb
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Util\obj\Debug\Util.dll
+C:\Users\LuisManuel\Documents\Visual Studio 2008\Projects\Consultorio\Util\obj\Debug\Util.pdb
