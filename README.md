@@ -1,6 +1,5 @@
 Consultorio
 ===========
 
-Academic .NET project to manage doctor's practices.
-
+Academic .NET project to manage medical practices.
 
